@@ -1,2 +1,4 @@
 # hello-world
-first repository
+Hello 
+My name is Mohit Soni. I love coding.
+
